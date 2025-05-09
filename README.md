@@ -10,20 +10,24 @@ the product and issue mentioned in the complaint, and the company's response.
 4.	Can you learn anything from the complaints with untimely responses?
 
 ## Procedures
-1. Load the dataset into Excel, check for duplicates, missing values, and blanks
-2. I extract the month and year from the delivered date
-3. Create a pivot table to get the objectives and insight
-4. Create a dashboard for visualization and to get my findings
+Step 1: Loaded the dataset into Excel; checked for duplicates, missing values, and blanks
+
+Step 2: Extract the Month and Year from the delivery date
+
+Step 3: Created a pivot table to analyze objectives and extract insights
+
+Step 4: Built a dashboard for visualization and to present findings
 ![Screenshot 2025-05-03 200332](https://github.com/user-attachments/assets/e7b4744a-2a8f-48f6-8266-d5ea04ec8872)
 
 ## Insights
-1. Yes, from my findings, July and August have the most complaints,
-   as the years 2022 and 2023 have lots of complaints.
-2.  Products with the most complaints are checking and savings accounts
-   and the most common issue is managing the account.
-3. Complaints are mostly closed with an explanation
-4. Untimely responses may correlate with higher  customer dissatisfaction.
 
+Peak Complaint Months: July and August, particularly in 2022 and 2023
+
+Most Complained Products: Checking and savings accounts, with account management issues
+
+Complaint Resolution: Most complaints are closed with an explanation
+
+Customer Dissatisfaction: Delays in responses may lead to higher dissatisfaction
 ## Recommendation
 1. I suggest you add temporary support staff or self-service tools during peak times
 2. Launch product-specific education campaigns or service audits
